@@ -5,6 +5,7 @@ authors = ["Chris Couzens <ccouzens@gmail.com>"]
 edition = "2018"
 repository = "https://github.com/ccouzens/leptonica-sudoku"
 license = "MIT"
+description = "Rust bindings to Leptonica's sudoku module"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
